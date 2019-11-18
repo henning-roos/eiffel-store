@@ -1,4 +1,5 @@
 # eiffel-store
+TEST
 A persistence solution for Eiffel events. This repository is different than Eiffel Vici. This repository accepts live view of Eiffel
 events. The MongoDB, at backend, has trigger events. Whenever any event is added into the collection named "eiffel-events", the 
 visualization is updated. 
